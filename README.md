@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Leema</h1>
-<h3 align="center">Research interests: Machine Learning, Deep Learning, Computer Vision in Life Sciences</h3>
+<h3 align="center">Research interests: Machine Learning, Deep Learning, Computer Vision, Transformers </h3>
 
 - 🔭 I’m currently researching on **imaging foundational models**
 
