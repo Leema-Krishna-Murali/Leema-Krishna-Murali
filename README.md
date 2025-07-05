@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leema</h1>
-<h3 align="center">Research interests: Machine Learning, Deep Learning, Computer Vision, Transformers </h3>
+<h3 align="center">Research interests: Multimodal AI, Interpretability, Computational Neuroscience, AI in medical imaging </h3>
 
-- 🔭 I’m currently researching on **imaging foundational models**
+- 🔭 I’m currently researching on **imaging foundational models** and **multilingual multimodal models**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
